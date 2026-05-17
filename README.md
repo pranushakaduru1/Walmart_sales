@@ -1,1 +1,2 @@
-# Walmart_sales
+# Overview
+This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. Using Python for data processing and SQL for analysis, the project provides meaningful insights into revenue generation, profitable product categories, customer preferences, and branch performance. The analysis helps transform raw sales data into actionable business intelligence.
